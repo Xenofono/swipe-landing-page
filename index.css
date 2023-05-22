@@ -288,7 +288,7 @@ main {
 
 .hero-phone{
     height: 628px;
-    transform: translateY(-32px);
+    transform: translate(32px, -32px);
 }
 
 
