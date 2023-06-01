@@ -430,3 +430,22 @@ main {
     border-radius: 20px;
 }
 
+/* WHY SWIPE CONTENT */
+
+.why-swipe-section .card-container {
+    display: flex;
+    gap: var(--spacing-md);
+    margin: var(--spacing-lg) 0;
+}
+
+.why-swipe-section .card-container .card {
+    width: 25%;
+    box-sizing: border-box;
+}
+
+.why-swipe-section .secondary-text {
+    color: var(--text-dark)
+}
+
+
+
